@@ -23,6 +23,14 @@ Import the provided MySQL database schema.
 Configure the database connection in the PHP files to match your local environment.
 Run the application on your local server.
 
+Register page
+![p1](https://github.com/Isha-nagpal/Xenonstack-Assignment/assets/69720721/48bea982-c84d-4114-8f7f-abb7e32b9bd1)
+
+Login Page 
+
+
+
+
 CHECK OUT PROJECT ON ->> https://isha-xenonstack.000webhostapp.com/index.html
 
 
