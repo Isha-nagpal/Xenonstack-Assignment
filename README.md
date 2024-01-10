@@ -27,6 +27,10 @@ Register page
 ![p1](https://github.com/Isha-nagpal/Xenonstack-Assignment/assets/69720721/48bea982-c84d-4114-8f7f-abb7e32b9bd1)
 
 Login Page 
+![p2](https://github.com/Isha-nagpal/Xenonstack-Assignment/assets/69720721/84f4c782-c3fd-4f8e-8066-2919a55ff675)
+
+Welcome Page
+![p3](https://github.com/Isha-nagpal/Xenonstack-Assignment/assets/69720721/9c6e6e8b-dd7b-4ee7-a8c7-78fb8da272b0)
 
 
 
